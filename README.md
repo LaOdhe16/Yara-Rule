@@ -92,11 +92,6 @@ https://yara.readthedocs.io/
 - Explore defensive malware detection techniques.
 - Build and improve practical cybersecurity skills.
 
-## 👨‍💻 Author
-
-**LaOdhe16**
-
-GitHub: https://github.com/LaOdhe16
 
 ## 📄 License
 
